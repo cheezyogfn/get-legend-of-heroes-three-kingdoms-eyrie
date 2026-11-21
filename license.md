@@ -186,7 +186,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Legend of Heroes: Three Kingdoms · Updated 2026-11-20 · Shared under the MIT License*
+*Legend of Heroes: Three Kingdoms · Updated 2026-11-21 · Shared under the MIT License*
 
 
-Updated 2026-11-20.
+Updated 2026-11-21.
